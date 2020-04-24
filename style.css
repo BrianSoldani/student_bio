@@ -1,0 +1,23 @@
+body {
+    background-color: lightblue;
+  }
+
+h1, h2 {
+    text-align: center;
+  }
+
+  p {
+    color: black;
+  }
+
+  .styledFont {
+      font-family: 'Courier New', Courier, monospace;
+      color: blue
+  }
+
+  img {
+      border: 3px solid black;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+  }
