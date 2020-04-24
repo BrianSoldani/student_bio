@@ -1,3 +1,17 @@
-body {
-    background-image: url ("https://briansoldani.github.io/student_bio/blue_background.png";)
+ body {
+    background-image: url("https://briansoldani.github.io/student_bio/blue_background.png");
+    background-repeat: repeat-x;
+  }
+
+  h1 {
+    color: white;
+    text-decoration: underline;
+    text-align: center;
+  }
+
+  p {
+    color: red;
+    font-size: 50px;
+    font-family: cursive;
+    text-align: center;
   }
